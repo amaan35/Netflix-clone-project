@@ -1,2 +1,2 @@
 # Netflix-clone-project
-Netflix website cloned using HTML and Tailwind CSS 
+Netflix website cloned using HTML, Tailwind CSS and javaScript 
